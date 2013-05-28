@@ -1,0 +1,24 @@
+I have been trying to piece together the pattern of computer science.  You may ask why?  Well I think if you understand how it is intended to be understood, 
+then you can start to make reasonable assumptions about how you should be using it.  It seems to me, that computer science is taught from the top down, with 
+intention.  Pratical computer science or development as its often referred to is the process from abstraction to specificity.  Whereas mathematics is the 
+process from specificity to abstraction.  I think this is more a product of the ciriculum than the actual discipline.  It is completely reasonable in computer
+science to move from the specific to the abstract, as is done in theoretical computer science.  However as a point of fact, much of computer science ciricula 
+is taught from high level to low.  I think this may need to be made clear to students of computer science, on the ground.  Sadly, computer science is not
+explained in this way.  This is the major failing of most attempts to teach computer science to novice programmers.  Hence the only people interested in 
+computer science are those in the know.  Which is truly sad.  We are failing as a country to bring more people into the fold of coding and development.
+
+This is as much my fault as anyone else in the business of education.  But still, we should make the design choice clear to our students, especially the ones
+not coming from a computer science background.  Because unless it is specified, we will never learn.  The problem, on the whole is the introductory courses
+are not taught by true masters of the subject.  Of course this is a hard problem, because there is a shortage of capable computer scientists anyway.  All the
+good ones are either pouched by industry or worse, leave the field entirely.  What we need to be doing is finding a new way to really teach computer science.
+We need a way to make students not feel scared.  And most importantly, we need to end cultures that incentivize professors to not teach well.  
+
+The people teaching the introductory courses should be industry professors.  Researchers are usually bored by teaching introductory courses.  At the same time
+people who don't research but are professors are usually not very good.  The answer is clear, get young guys, who just finished a masters in CS.  These people
+know the needs of industry, which is important.  And yet they know the material well enough to land that job.  The other part of this has to be higher 
+standards for who we let teach our courses.  Professors for introductory courses should be forced to submit all exams and homeworks to senior members of staff
+for review.  Additionally, tests should be with use of a compiler.  If you actually want students to get good at writing code by hand, give quizzes once a 
+week.  When students are required to write code without a compiler on an exam you limit what can be tested.  And ultimately tests become meaningless.
+
+For this reason, I have decided to create a syllabus of exercises that I believe will be benefical.  I will be making use of Adam Drozdek's Data structures and algorithms in C++ text for data structures.  And learn python the hard way / learn C the hard way for introduction to coding.  I will generate a series of 
+quizzes and tests that educators can use.  These can be refined or specified for individual instructors.
